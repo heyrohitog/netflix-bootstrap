@@ -5,7 +5,7 @@ nav{
     
 }
 .header{
-    height: 100vh;
+    height: 70vh;
     color: #fff;
     text-align: center;
     background: linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%),url('https://assets.nflxext.com/ffe/siteui/vlv3/df6621a3-890c-4ca0-b698-90bd5152f3d1/20a59be7-7062-4991-bca0-805e9a7f2716/IN-en-20240107-trifectadaily-perspective_alpha_website_large.jpg');
